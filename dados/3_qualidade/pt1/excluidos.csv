@@ -1,0 +1,41 @@
+ID_estudo,Nome,Motivo,Descricao,Retirado
+E03,A Model-driven Requirements Engineering Method for Human-centered Digitalisation of Agriculture,CE07,Ele é uma pesquisa de PhD,Sim
+E04,Analyzing value co-creation in service systems: contribution from GORE,"CE03,CE07",Ele é um artigo pequeno,Sim
+E05,An Experience Report on Teaching Multiple Design Thinking Techniques to Software Engineering Students,CE05,"Ele é uma pesquisa do DT para estudantes de engenharia de software, não está preocupado em integração entre ER e design em desenvolvimento de software e soluções digitais.",Sim
+E06,An Experience Report on the Use of Experience Maps and Sketches in a Database Course Project,CE05,O objetivo declarado é melhorar a qualidade dos projetos dos estudantes,Sim
+E07,An Experience Report on the use of Problem-based learning and Design Thinking in a Requirements Engineering PostGraduate Course,CE05,"As quatro RQs internas (RQ1–RQ4) são todas sobre percepção dos estudantes, didática e desempenho de equipe — não sobre a integração ER↔design em si.",Sim
+E10,AR Training for Paragliding Pilots: An Investigation of User Experience and Requirements,CE04,O eixo principal desse artigo é para requisitos de hardware e não software,Sim
+E11,A scenario- and observation-based requirement analysis for delivery of remote mining services,CE07,O artigo tem apenas 4 paginas,Sim
+E13,Breaking the UCD Process: The Case Study of a Failed Mexican Government Project,CE07,O artigo é um short paper,Sim
+E15,Capturing and validating personalization requirements in Web applications,CE03,"O artigo usa design"" intensamente, mas quase sempre no sentido de Web engineering / model-driven design / software architecture design""",Sim
+E16,Characterizing Human Aspects in Reviews of COVID-19 Apps,CE05,Artigo fora do escpo de estudo da SLR,Sim
+E17,Clash of Requirements: Users First vs. Model First,CE07,Artigo é short paper,Sim
+E18,Co-Designing Augmented Paper for Health Education with Older Adults,CE03,"design centrado no usuário forte, mas ER apenas como insumo herdado, não como atividade do estudo",Sim
+E24,Designing affective animations with children as design partners using,CE04,Engenharia de software nao presente,Sim
+E31,Digital Design - Shaping a Sustainable Digital Future Requires a New Holistic Design Approach,CE01,Artigo de opiniao*,Sim
+E33,Domain Specific Case Tool for ICT-Enabled Service Design,CE03,Artigo foge do tema de ER*,Sim
+E34,DT4RE: Design Thinking for Requirements Engineering: A Tutorial on Human-Centered and Structured Requirements Elicitation,CE07,Artigo é um tutorial,Sim
+E35,Dual-Track UX: A User Experience Evaluation Method for B2B SaaS Development,CE03,Artigo fora da tematica de ER*,Sim
+E37,Exploring the tension between user's and main stakeholder's goals: The role of Client Scenarios,CE07,Artigo eh uma proposta,Sim
+E39,Focusing Requirements Elicitation by Using a UX Measurement Method,CE04,Artigo fora do contexto de software,Sim
+E41,Harnessing Cognitive and Psychological Theories for RE: Navigating Emotions in the Ocean of Requirements Elicitation,CE07,Short paper,Sim
+E42,Historytelling: a Website for the Elderly A Human-Centered Design Approach,CE07,Short paper,Sim
+E44,How to Apply Human-Centered Design Process (HCDP) to Software Development Process?,CE07,Short paper,Sim
+E49,Integrating Software and Systems Engineering: A Framework for Human-Centric Design of Augmented Reality Applications,CE03,Fora do escopo de design,Sim
+E50,A web app to support the political participation of adolescents and young adults in rural areas,CE07,Short Paper,Sim
+E52,Migrating a Software Factory to Design Thinking: Paying Attention to People and Mind-Sets,CE07,Relatorio,Sim
+E55,NewsThings: Exploring Interdisciplinary IoT News Media Opportunities via User-Centred Design,CE04,Fora do contexto de software,Sim
+E56,On the Road to Enriching the App Improvement Process with Emotions,CE05,Esta fora do eixo das atividades de engenharia de requisitos,Sim
+E60,Proposal for Validating a Requirement Elicitation Process Using Action-Research,CI03,Artigo em espanhol,Sim
+E61,Requirements Bazaar: Social requirements engineering for community-driven innovation,CE07,Short paper,Sim
+E62,Roadblocks to UCD Integration,CE06,Artigos de opiniao,Sim
+E65,Study about software project management with Design Thinking,CE07,Artigo short paper,Sim
+E66,Teaching Multidisciplinary Teams Requirements for Undergraduate Students: an Approach to Augmented Reality Software in Design Thinking Context,CE07,Nao responde as questoes de pesquisa,Sim
+E68,The Implications of ‘Soft’ Requirements,CE01,Artigo de opiniao,Sim
+E69,The Importance of Empathy for Analyzing Privacy Requirements,CE01,Artigo de opiniao,Sim
+E71,The Use of Design Thinking for Requirements Engineering: An Ongoing Case Study in the Field of Innovative Software-Intensive Systems,CE07,Short paper,Sim
+E73,Towards a Method for Modelling Socio-Technical Process Transformation in Digital Agriculture,CE03,Fora do contexto de Deisgn,Sim
+E80,Towards Fully-Traceable Human-Centred Design,CE07,Short paper,Sim
+E76,Towards requirements engineering with immersive augmented reality,CE06,Artigo secundario,Sim
+E77,User feedback in the appstore: An empirical study,CE03,Artigo sem eixo do design,Sim
+E78,UX-MAPPER: A User eXperience Method to Analyze App Store Reviews,CE07,Teste de doutorado,Sim

@@ -1,0 +1,7 @@
+etapa,criterios,entram,saem,restam,observacao
+"Busca (v2, 08/05/2026)",,235,0,235,163 na IEEE Xplore e 72 na ACM DL
+Remoção antes da triagem,"CE1, CE2",235,11,224,4 contêineres de anais (CE1) e 7 duplicatas (CE2)
+Triagem por título e resumo,"CE3, CI1, CE7, CE1, CE6",224,144,80,razão primária por registro; ver exclusoes_por_criterio.csv
+Elegibilidade em texto completo,"CE7, CE3, CE5, CE4, CE1, CE6, CI3",80,40,40,razão primária por registro; ver exclusoes_por_criterio.csv
+Avaliação de qualidade,"corte 6,5",40,8,32,"nenhum estudo pontuou entre 6,0 e 6,5"
+Extração (reaplicação dos critérios),"CE7, CE4",32,4,28,"3 short papers (CE7) e 1 fora de escopo (CE4), somas 7,0 a 7,5"

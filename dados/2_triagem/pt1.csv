@@ -1,0 +1,236 @@
+num,decisao,tag,titulo,justificativa
+39,I,,A Model-Driven Requirements Engineering Method for Human-Centered Digitalisation of Agriculture,MoDRE para digitalização agrícola centrada no humano IEEE RE 2024. Responde R1/R4.
+38,I,,A Novel Trust State-Chart Model for Requirements Engineering of Trustful AI - Empowered Software,Modela requisitos de confiança em IA considerando UX integra ER com design centrado em humano. Responde R1/R4.
+212,I,,A scenario- and observation-based requirement analysis for delivery of remote mining services,Cenários e observação para análise de requisitos. 4 páginas (limítrofe CE7) mas tema relevante para R2/R4.
+22,I,,A Usability-Pattern-Based Requirements-Analysis Method to Bridge the Gap between User Tasks and Application Features,Propõe método de análise de requisitos baseado em padrões de usabilidade em Agile-UCD. Responde R1/R4.
+77,I,,Activity-Centered Domain Characterization for Problem-Driven Scientific Visualization,Framework de ER baseado em Activity-Centered Design (extensão de HCD). IEEE TVCG. Responde R1/R4.
+36,I,,Aligning Healthcare Innovation and Software Requirements through Design Thinking,Diretamente sobre alinhar requisitos de software via DT em saúde. Workshop ICSE SEHS. Responde R1/R4.
+203,I,,An experience report on teaching multiple design thinking techniques to software engineering students,Relata ensino de múltiplas técnicas de DT para elicitação de requisitos em curso de SE. SBES 2018. Responde R1/R2/R4.
+101,I,,An Experience Report on the Use of Experience Maps and Sketches in a Database Course Project,"Aplica técnicas UCD (experience maps, sketches) para elicitação de requisitos em curso. Responde R2/R4 em vertente educacional."
+209,I,,An Experience Report on the use of Problem-based learning and Design Thinking in a Requirements Engineering Postgraduate Course,Relato de PBL+DT em curso de pós-graduação de RE. SBES 2023. Responde R1/R2/R4 em vertente educacional.
+135,I,,An Introduction to Experience Requirements,Propõe conceito de experience requirements aplicando RE ao output do UX design. IEEE RE 2010. 2 páginas (short paper) - limítrofe CE7 mas tema central.
+217,I,,Analyzing value co-creation in service systems: contribution from GORE,Aborda GORE para análise de co-creation em service systems - relevante para R1/R4 em service design. 3 páginas (provável CE7).
+164,I,,Application of human-centered design practices in the agile requirements engineering process: a case study in a public company,Estudo de caso de HCD em Agile RE em empresa pública. SBQS 2024. Responde R1/R2/R4.
+94,I,,AR Training for Paragliding Pilots: An Investigation of User Experience and Requirements,Combina UX e elicitação de requisitos para AR em treinamento. Limítrofe entre I e CE3.
+171,I,,Breaking the UCD Process: The Case Study of a Failed Mexican Government Project,Analisa falha de UCD em projeto governamental incluindo problemas de elicitação. CHI EA 2016 - mas 6 páginas. Responde R5 fortemente.
+67,I,,Can You Help Me Measure My Blood Sugar? Co-design of a Voice Interface to Assist Patients and Caregivers at Home,Co-design + elicitação para interface de voz em saúde. 4 páginas - possível short paper.
+144,I,,Capturing and validating personalization requirements in Web applications,Propõe WebSpec - artefato de requisitos para capturar requisitos de UX/navegação/interação em web. Responde R1/R4.
+120,I,,Characterizing Human Aspects in Reviews of COVID-19 Apps,Captura aspectos humanos em requisitos via análise de reviews ligação clara com UX e ER. MobileSoft 2022. Responde R2/R5.
+180,I,,Clash of Requirements: Users First vs. Model First,Estuda tensão entre UX designers e data scientists em RE para ML. FSE 2025. Short paper (5 páginas) mas tema central. Responde R3/R5.
+194,I,,Co-Designing Augmented Paper for Health Education with Older Adults,Co-design com idosos para health education baseado em user requirements. BCS HCI 2025. Responde R2/R3.
+100,I,,Collaboration-based Urban Planning Platform: Modeling Cognition to Co-create Cities,Co-create cities via plataformas colaborativas + sensoriamento participativo. Limítrofe entre I (R2/R3) e CE3.
+28,I,,Combining i* and Service Blueprint for Service design: a case study of Fliggy,Combina i* (ER) com Service Blueprint (Service Design). Diretamente sobre integração. Responde R1/R2/R4.
+187,I,,Comparing Design Thinking Techniques in the Context of IoT Requirements Elicitation: An Empirical Study,"Estudo empírico comparando técnicas de DT (IoThinking, Mind IoT) em elicitação para IoT. SBQS 2024. Responde R1/R2/R4."
+1,I,,Design and Development of the Ez Claim Mobile Application Through Human-Centered Design Thinking,"Aplica HCD+DT para construir app de seguros, foco no produto. Limítrofe entre CE3 e responder R2/R3 como estudo de caso."
+184,I,,Design for IoT: An Experimental Study to Understand How Design Thinking Can Help in the Elicitation of Requirements for IoT Systems,Estudo experimental de DT em elicitação de requisitos para IoT. SBQS 2023. Responde R1/R2/R4.
+24,I,,Design science research based blended approach for usability driven requirements gathering and application development,Combina SE+HCI+DSR para elicitação de requisitos. Responde R1/R4.
+21,I,,Design Thinking in a Nutshell for Eliciting Requirements of a Business Process: A Case Study of a Design Thinking Workshop,Diretamente sobre DT para elicitação de requisitos. Responde R1/R2/R4.
+23,I,,Design Thinking in Requirements Engineering: Understanding the Role of Internal and External Empathy,"Quasi-experimento com técnicas de DT (Vision Canvas, Empathy Map) em elicitação. Responde R1/R2/R4."
+41,I,,Designing a Useful and Usable Mobile EMR Application through a Participatory Design Methodology: A Case Study,Identifica requisitos via PD analisa explicitamente o processo de elicitação. Responde R2/R3/R4.
+220,I,,Designing affective animations with children as design partners using role-playing,Propõe método novel de UCD/PD com crianças (role-playing) para elicitação de requisitos. IHM 2011. Responde R2/R3.
+80,I,,Designing Model Tools of Requirement Elicitation Process for ADHD Children's Learning Application,Foco direto em processo de elicitação de requisitos para crianças ADHD. Responde R1/R3/R4.
+15,I,,Developing Software Using Agile and Design Thinking Framework,Discute integração Agile+DT para captura de requisitos. Responde R2/R4.
+33,I,,Digital Design - Shaping a Sustainable Digital Future Requires a New Holistic Design Approach,IEEE RE 2023 discute necessidade de abordagem holística de design para RE. Responde R1/R5.
+195,I,,Discovery of socio-technical requirements for the design of a digital educational game,Aplica conceitos/técnicas de SE para descoberta de requisitos sociotécnicos. SBSI 2023. Responde R2/R3/R4.
+72,I,,Domain Specific Case Tool for ICT-Enabled Service Design,Ferramenta que integra elicitação e modelagem de requisitos no ciclo de Service Design. HICSS 2014. Responde R1/R4.
+9,I,,DT4RE: Design Thinking for Requirements Engineering: A Tutorial on Human-Centered and Structured Requirements Elicitation,Diretamente sobre DT aplicado a ER. Tutorial em IEEE RE. Responde R1/R2/R4.
+188,I,,Dual-Track UX: A User Experience Evaluation Method for B2B SaaS Development,Método de avaliação UX integrando avaliação heurística e identificação de user requirements em B2B SaaS. CHI EA 2025. Responde R2/R4.
+190,I,,Evaluating Approaches to Selecting Design Thinking Techniques: Quantitative and Qualitative Analysis,Avalia abordagens para selecionar técnicas de DT em RE. SBQS 2023. Responde R1/R2/R4.
+116,I,,Exploring the tension between user's and main stakeholder's goals: The role of Client Scenarios,Discute cenários (técnica de RE) para tensão entre user e stakeholder em web design. 4 páginas - possível short paper.
+178,I,,Flexible Requirement Development through User Objectives in an Agile-UCD Hybrid Approach,Diretamente sobre integração Agile+UCD para desenvolvimento de requisitos. Interacción 2018. Responde R1/R2/R4.
+74,I,,Focusing Requirements Elicitation by Using a UX Measurement Method,Combina elicitação de requisitos com método de medição de UX. IEEE RE 2018. Responde R1/R2/R4.
+82,I,,Fostering Organizational Creativity by Integrating Design Thinking and Intrapreneurship,Examina DT em empresa de software com melhoria em coleta de requisitos. IEEE Software 2025. Responde R1/R4/R5.
+40,I,,Harnessing Cognitive and Psychological Theories for RE: Navigating Emotions in the Ocean of Requirements Elicitation,Discute DT/Empathy Map em elicitação de requisitos. REW 2023. Responde R1/R2/R5.
+167,I,,Historytelling: a Website for the Elderly A Human-Centered Design Approach,Aplica HCD+ para análise de requisitos com idosos foco no produto. Provavelmente short/poster (sem páginas indicadas).
+186,I,,How Should We Design Technology With Diverse Stakeholders Who Wish Not to Attend Design Activities Together?,Estuda desafios de co-design com stakeholders que não querem participar juntos (polícia/cidadãos). CHI 2025. Responde R3/R5.
+2,I,,How to Apply Human-Centered Design Process (HCDP) to Software Development Process?,Position paper que discute integração HCD <-> SE/RE e identifica gaps (twin peaks). Responde R1/R5.
+173,I,,Identifying Agile Requirements Engineering Patterns in Industry,Identifica padrões de Agile RE integrando HCD em indústria. Diretamente sobre R1/R2/R4.
+177,I,,Identifying design features using combination of requirements elicitation techniques,Discute combinação de técnicas de elicitação de requisitos para design. DISE 2017. Responde R2/R4.
+197,I,,Integrating Design Thinking into Scrum Framework in the Context of Requirements Engineering Management,Propõe framework integrando DT em Scrum no contexto de RE management. CSSE 2020. Responde R1/R2/R4 fortemente.
+34,I,,Integrating requirements engineering and user experience design in Product life cycle Management,Diretamente sobre integração RE <-> UX em PLM. Responde R1/R4.
+87,I,,Integrating Software and Systems Engineering: A Framework for Human-Centric Design of Augmented Reality Applications,Framework para design humano-centrado de apps AR integrando SE e SysE. IEEE SysCon 2024. Responde R1/R4.
+118,I,,Jul@ - A web app to support the political participation of adolescents and young adults in rural areas,Descreve explicitamente processo de RE+Design em cooperação com público-alvo. Responde R2/R3.
+117,I,,mHealth4Afrika Beta v1 Validation in Rural and Deep Rural Clinics in Ethiopia Kenya Malawi and South Africa,Co-design de plataforma mHealth baseada em end-user requirements em contextos rurais africanos. Responde R2/R3.
+20,I,,Migrating a Software Factory to Design Thinking: Paying Attention to People and Mind-Sets,Relato de migração para DT impactando elicitação de requisitos. IEEE Software. Responde R1/R4/R5.
+141,I,,Minimal Satisfiable Product: A Novel Concept in Agile Project Management for better adherence to Customer Requirements,Propõe conceito de MSP em Agile considerando UX para melhor aderência a requisitos. Limítrofe entre I (R4) e CE3.
+18,I,,Multifaceted Requirements Engineering: Developing A MESH (Municipal-Environmental-Social-Health) Platform,"Discute RE multifacetada com múltiplos stakeholders e disciplinas, relevante para R3/R4."
+219,I,,NewsThings: Exploring Interdisciplinary IoT News Media Opportunities via User-Centred Design,"Usa UCD multidisciplinar (workshops, cultural probes) para elicitação em IoT. TEI 2018. Responde R2/R3/R4."
+150,I,,On the Road to Enriching the App Improvement Process with Emotions,Propõe método para rastreamento de emoções na verificação/validação de requisitos via UX. REW 2019. Responde R1/R2/R4.
+189,I,,Organizing the Design Thinking Toolbox: Supporting the Requirements Elicitation Decision Making,Diretamente sobre organizar técnicas de DT para apoiar decisão em elicitação de requisitos. SBES 2021. Responde R1/R2/R4.
+16,I,,Participatory design-based requirements elicitation involving people living with dementia towards a home-based platform to monitor emotional wellbeing,Foca explicitamente em participatory design-based requirements elicitation. Responde R2/R3.
+56,I,,Project-Based Learning with Real-World Projects for Requirements Engineering Education: A Case Study at a University in Lima Peru,"Integra UCD, entrevistas, prototipação e IEEE doc em curso de ER. Vertente educacional de R1/R4."
+124,I,,Proposal for Validating a Requirement Elicitation Process Using Action-Research,Diretamente sobre validar PRO-RE-DT (Design Thinking) para elicitação. 4 páginas (limítrofe CE7) mas tema central. Responde R1/R4.
+37,I,,Requirements Bazaar: Social requirements engineering for community-driven innovation,Social RE com participação da comunidade. IEEE RE. Responde R2/R4.
+76,I,,Roadblocks to UCD Integration,Discute barreiras à integração de UCD em desenvolvimento. 4 páginas (limítrofe CE7) mas responde fortemente R5.
+29,I,,SecondLook: Participatory Design Process to Create a Phone App that Detects Digital Dating Abuse,Usa PD para criar app menciona elicitação via PD mas foco principal é o produto.
+47,I,,Smart City Citizens' Service Provision using Participatory Design and Participatory Sensing: Lessons for Developing Cities,Usa PD/PS para definir requisitos funcionais e não-funcionais em e-gov. Responde R2/R3.
+136,I,,Socially Aware Design Workshop to Discover Socio-Technical Requirements: Planning Execution and Results,Workshop para descoberta de requisitos sociotécnicos via design socialmente consciente. FIE 2024. Responde R2/R3/R4.
+200,I,,Study about software project management with Design Thinking,Discute uso de DT em RE no gerenciamento de projetos de software. EATIS 2018. Responde R1/R2/R4.
+45,I,,Teaching Multidisciplinary Teams Requirements for Undergraduate Students: an Approach to Augmented Reality Software in Design Thinking Context,Ensino de ER em contexto de DT para AR. Responde R1/R2/R4.
+211,I,,The contribution of non-technical stakeholders on the specification of UX requirements: an experimental study using the proto-persona technique,Estudo experimental de proto-persona (técnica de Design) em elicitação de requisitos UX. SBES 2018. Responde R2/R3.
+148,I,,The Implications of 'Soft' Requirements,Propõe taxonomia de soft requirements integrando RE+UX/HCI+aceitação de tecnologia. IEEE RE 2022. Responde R1/R4/R5 fortemente.
+119,I,,The Importance of Empathy for Analyzing Privacy Requirements,Aplica lente de DT (empatia) para analisar requisitos de privacidade. ESPRE 2018. Responde R1/R5.
+27,I,,The Role of Design Thinking and Physical Prototyping in Social Software Engineering,Discute DT em SE social abordando elicitação e desafios. ICSE. Responde R1/R3/R5.
+17,I,,The Use of Design Thinking for Requirements Engineering: An Ongoing Case Study in the Field of Innovative Software-Intensive Systems,Diretamente sobre DT em ER. Responde R1/R2/R4.
+51,I,,Toward Emotion-Oriented Requirements Engineering: A Case Study of a Virtual Clinics Application,Elicita e modela requisitos emocionais via Think-aloud/entrevistas em ER. REW 2022. Responde R1/R2/R4.
+111,I,,Towards a Method for Modelling Socio-Technical Process Transformation in Digital Agriculture,MoDRE para digital agriculture sócio-técnica com múltiplos stakeholders. REW 2024. Responde R1/R4. Possível duplicata parcial de #39.
+191,I,,Towards an understanding of benefits and challenges in the use of design thinking in requirements engineering,Estudo sobre benefícios e desafios de DT em RE. SAC 2021. Responde R1/R5 fortemente.
+109,I,,Towards Dementia-Friendly Smart Homes,Aborda elicitação dos requisitos únicos de pessoas com demência em smart homes toca em ER+Design centrado no usuário. Limítrofe.
+3,I,,Towards Fully-Traceable Human-Centred Design,Propõe infundir DT em curso de SE para ensinar rastreabilidade de requisitos. Responde R1/R4.
+193,I,,Towards requirements engineering with immersive augmented reality,Vision paper sobre uso de AR para apoiar elicitação e análise de requisitos. Responde R2/R4.
+115,I,,User feedback in the appstore: An empirical study,Estuda como reviews da app store impactam RE conexão clara com UX e elicitação. IEEE RE 2013. Responde R2/R4.
+210,I,,UX-MAPPER: A User eXperience Method to Analyze App Store Reviews,Método de UX para analisar reviews de app stores - conecta UX com elicitação de requisitos via feedback. IHC 2024. Responde R2/R4.
+19,I,,Visual Requirements Specification and Automated Test Generation for Digital Applications,"Aborda especificação visual de requisitos (Pretotyping), toca em ER+UX mas foco parece ser geração de testes."
+48,I,,When the Developers Become the (Micro) Crowd: An Educational Case Study on Multidisciplinary Requirements Engineering,Aplica DT em estudo educacional multidisciplinar de RE. REW 2021. Responde R1/R2.
+140,E,CE3,2020 Vision,Foco em visão de pesquisa para wireless devices não trata de ER <-> Design.
+59,E,CI1;CE7,A case study of API redesign for improved usability,UCD aplicado a redesign de API 2008 viola CI1 e tem 4 páginas.
+154,E,CE3,A Comparative Case Study on Augmented Reality and AI Chatbots,Compara aplicações AR+IA chatbots em retail/beauty sem discussão de ER <-> Design.
+43,E,CI1,A comparison of questionnaire-based and GUI-based requirements gathering,Compara métodos de elicitação incluindo PD relevante mas é de 2000.
+88,E,CE3,A Comprehensive Framework for Intelligent Scalable and Performance-Optimized Software Development,"Framework para integrar IA no SDLC foco em escalabilidade e performance, sem discussão de ER <-> Design."
+114,E,CI1,A decision-oriented approach to system design and development,Combina prototipagem decision-oriented com requisitos e UCD muito relevante mas 1993.
+108,E,CE3,A Grid-Enabled Virtual Screening Gateway,Foco em arquitetura técnica de gateway para drug discovery sem discussão de ER <-> Design.
+125,E,CI1,A peaceful revolution: Community planning and water system assessment in San Lucas Tolimán Guatemala,Usa Participatory Design em planejamento comunitário com engenharia de sistemas relevante mas 2009.
+84,E,CE3,A study on effective knowledge reuse in multi-platform web applications user interfaces,Foco em reuso de conhecimento em UI multi-plataforma sem discussão de ER <-> Design.
+134,E,CE3,A survey of Cloud Auction mechanisms & decision making in Cloud Market to achieve highest resource & cost efficiency,Survey técnico sobre cloud auction fora do escopo.
+159,E,CE6,A Systematic Review of Chatbot Development: Technological Advancements Applications and Quality Attributes,Systematic Review (estudo secundário) seguindo PRISMA.
+46,E,CE3,A Use Case based requirements specification approach to support the development of a rehabilitation system for CVD patients: The PATHway project,Foco em técnicas de RE (use cases) para reabilitação menciona aproximação com usuários clínicos mas integração com design não é central.
+10,E,CE3,A User-Centered Design Approach to Self-Service Ticket Vending Machines,"Estudo de caso de UCD para TVMs, não há discussão sobre ER nem integração."
+198,E,CE3,AHP Hierarchical Analysis based Intelligent Jump Rope Design Research,Foca em AHP para design de produto físico (pular corda) sem discussão de ER <-> Design em software.
+216,E,CE2,Aligning healthcare innovation and software requirements through design thinking,"Duplicata do #36 (mesmo título, autores, ano, SEHS 2016)."
+152,E,CE3,An Efficient Resource Allocation Scheme With Uncertain Network Status in Edge Computing-Enabled Networks,Foco em alocação de recursos em edge computing sem discussão de ER <-> Design.
+127,E,CE3,An Initial Usability Testing for Improving Acceptance Criteria in A Scrum Project: An Angkasa LMS case study,Combina usability testing com validação de critérios de aceitação em Scrum. Limítrofe entre I (R4) e CE3.
+221,E,CE7,An Investigation into Appropriation of Portable Smart Devices by Users with Aphasia,2 páginas (poster). Aborda análise de requisitos via Technology Appropriation Model com pessoas com afasia.
+26,E,CE3,Analysis and Design of Agricultural Marketplace Using User Experience,Aplicação de UX em marketplace agrícola sem discussão de ER.
+14,E,CE6,Application of User Experience Method to Determine User Requirements in Remote Patient Monitoring Systems: Systematic Literature Review,É uma SLR (estudo secundário).
+157,E,CE3,Artificial Intelligence-Driven Beamforming: Integrating Intelligent Antenna Arrays to Improve the Performance of 5G Networks,Foco em beamforming/antenas 5G sem discussão de ER <-> Design.
+166,E,CE7,Automation Experience across Domains: Designing for Intelligibility Interventions Interplay and Integrity,"Workshop description em Extended Abstracts CHI - 8 páginas mas é descrição de workshop, não estudo primário."
+133,E,CE3,Beyond ePortfolios: Creating Exploiting and Archiving Activity Traces Learning Outcomes and Learning Analytics as Personal Shareable Online Spaces,Foco em arquitetura de ePortfolios sem discussão de ER <-> Design.
+176,E,CE7,Biblioteca digital inclusiva no ensino superior,Poster de 2 páginas (CE7). Aborda elicitação via Universal Design e UCD - tema relevante mas short paper.
+231,E,CI1,Bridge for buttons - a GUI design methodology applied in non-GUI consumer product design,Método participativo para bridging entre user requirements e GUI design - relevante mas 2000 viola CI1.
+49,E,CI1,Bridging the Gap Between Usability and Requirements Engineering,Estudo de caso sobre papel de especialistas de usabilidade em RE muito relevante mas é de 2009.
+149,E,CE3,Building Secure and Decentralized Survey Methodology: A Comprehensive Solution with FIDO2 Authentication and Fluree,Foco em segurança/blockchain para survey menciona user reqs mas sem discussão de ER <-> Design.
+229,E,CI1;CE1,C&T '09: Proceedings of the fourth international conference on Communities and technologies,Frontmatter dos proceedings - não é artigo. Também 2009.
+130,E,CI1;CE7,CAD of microsystems-a challenge for systems engineering,1996 e 2 páginas. Co-design técnico (HW/SW) fora do escopo.
+207,E,CE2,Characterizing human aspects in reviews of COVID-19 apps,"Duplicata do #120 (mesmo título, autores, ano, MobileSoft 2022)."
+165,E,CE3,CiApplication: A User-centered Web App for Postoperative Cochlear Implant Rehabilitation,UCD para web app de reabilitação foco no produto. Limítrofe entre I e CE3.
+235,E,CI1;CE3,CMAPS: a cosynthesis methodology for application-oriented parallel systems,Co-design HW/SW (cosynthesis) - fora do escopo. 2000 viola CI1.
+70,E,CE7,Co-Design of Gamified Mixed Reality Applications,Combina Co-design + RE para MR. Apenas 3 páginas - provavelmente CE7.
+62,E,CI1,Context-based Service Adaptation Platform: Improving the User Experience towards Mobile Location Services,2008 viola CI1. Também foco técnico em adaptação de serviço.
+214,E,CE3,CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design,"Framework de IA generativa para design de moda colaborativo foco no produto, sem discussão de ER <-> Design em software."
+226,E,CE3,Design and evaluation of a children's tablet video application,Estudos UX para definir end user requirements para app infantil. ACM TVX 2014. Limítrofe entre I (R2/R3) e CE3.
+151,E,CE3,Design and Implementation of a Dashboard System for Monitoring Key Performance Indicators in Digitalized Higher Education Institutions: A Case Study,"Estudo de caso de dashboard para HEIs foco no produto, sem discussão de ER <-> Design."
+131,E,CI1,Design and simulation of heterogeneous embedded systems,2000 viola CI1. Co-design técnico (HW/SW) fora do escopo.
+234,E,CI1;CE3,Design and Simulation of Heterogeneous Embedded Systems,Co-design HW/SW de embedded systems - fora do escopo. 2000 viola CI1. 1 página.
+102,E,CE3,Design Approach in Conference Management System with EZDESK Dashboard for Digital Ecosystem,"Estudo de caso de design com UX para sistema de conferência foco no produto, não na integração ER <-> Design."
+42,E,CE3,Design of Job Placement Center Dashboard for Monitoring Alumni Performance in Job Fair Application,Aplica HCD para criar dashboard específico não discute integração ER <-> Design conceitualmente.
+50,E,CE3,Design of Multilingual Augmented Reality Application for Rupiah Paper Currency Recognition,Estudo de caso de design de app AR não discute ER.
+175,E,CE3,Designing a gamified social platform for people living with dementia and their live-in family caregivers,Aborda design de plataforma com público vulnerável pode tocar em PD/co-design. Limítrofe.
+170,E,CE3,Designing a User-Centered Interactive Data-Storytelling Framework,"Framework de data-storytelling user-centered foco na visualização, sem discussão central de ER."
+206,E,CE3,Designing Adaptive Career Recommender Interfaces: Insights from South African University Students,"Aborda design de recommender com user requirements diversos em contexto africano. 18 páginas, mas foco predominantemente no produto. Limítrofe."
+103,E,CE3,Designing Interaction of Institut Teknologi Bandung Mental Health Services,"Design de interação para serviço de saúde mental foco no produto, sem discussão de ER."
+4,E,CE3,Designing User-friendly Medical AI Applications - Methodical Development of User-centered Design Guidelines,"Foco em guidelines de UCD/UX para IA médica, não discute ER nem integração com ER."
+63,E,CE3,Designing Village Idea Lab as Digital-based Incubator of Ideas and Innovation in Efforts to Establish New Entrepreneurs on Village Youth in East Java,Design de plataforma de incubadora sem foco em ER nem integração com design.
+192,E,CE3,Determining User Requirements for a Tailored Web-Based Inventory and Sales Management System in Micro-Small Construction Supply Stores using Design Thinking,Estudo de caso aplicando DT para elicitação em retail. Foco predominantemente no produto mas usa DT explicitamente. Limítrofe.
+58,E,CE7,Develop a Web-Based Platform Using User-Oriented Design for Knowledge Management System,"Usa user-oriented design para KMS pode tocar em elicitação. 5 páginas, limítrofe."
+122,E,CE3,Developing a Multimodal Entertainment Tool with Intuitive Navigation Hands-Free Control and Avatar Features to Increase User Interactivity,"Estudo de caso de design de ferramenta de entretenimento foco no produto, sem discussão de ER."
+86,E,CE3,Developing a part-time lecturer appointment notification system using UCD,Estudo de caso de UCD para sistema de notificação foco no produto.
+147,E,CE3,Developing a Unified Framework Integrating Web Engineering and SDLC Methodologies,Propõe framework unificado integrando Web Engineering e SDLC considerando UX toca em integração metodológica. Limítrofe.
+79,E,CE3,Development and Evaluation of M-Learning Application for Learning the Foundation of Islamic Knowledge,Estudo de caso de m-learning sem foco em ER nem integração com design.
+199,E,CE3,Development of a flexible and interoperable architecture to customize clinical solutions targeting the care of multimorbid patients,Foco em arquitetura técnica para soluções clínicas sem discussão de ER <-> Desig.
+32,E,CE3,Development of Cough Detection Pre-Screening System Architecture Methodology Using PSKVE-S with a Design Thinking Approach,Foco em arquitetura de sistema de detecção de tosse usando DT sem discussão de ER.
+81,E,CE7,Digital Designer: Emulation of Empathy-Driven Design with Generative AI,Explora LLMs em DT/elicitação de requisitos. 4 páginas - limítrofe CE7.
+90,E,CE3,Digital Twins for Data-Driven Path Finding on University Campus Navigation,Foco em digital twins/IoT para navegação sem discussão de ER <-> Design.
+12,E,CE3,Digitizing the Hand Rehabilitation Using Serious Games Methodology with User-Centered Design Approach,Aplicação de UCD em serious game de reabilitação sem foco em ER.
+233,E,CI1;CE1,DIS '06: Proceedings of the 6th conference on Designing Interactive systems,Frontmatter dos proceedings - não é artigo. Também 2006.
+232,E,CE1;CE7,EICS '11: Proceedings of the 3rd ACM SIGCHI symposium on Engineering interactive computing systems,Frontmatter dos proceedings - não é artigo.
+228,E,CE1;CE7,EICS '14: Proceedings of the 2014 ACM SIGCHI symposium on Engineering interactive computing systems,Frontmatter/welcome message dos proceedings - não é artigo.
+162,E,CE1;CE7,Eighth ACIS International Conference on Software Engineering Artificial Intelligence Networking and Parallel/Distributed Computing-Title,Página de título de proceedings - não é artigo.
+145,E,CE3,Emerging models and e-infrastructures for teacher education,Foco em repositório digital e portal para educação de professores sem discussão de ER <-> Design.
+8,E,CE3,Enhancing Tourism Applications with User-Centered Design and Usability Testing Interface and Experience Study,"Estudo de caso de UCD em app turística, sem foco em ER nem integração."
+183,E,CE3,Evaluating the Impact of Accessibility Testing Tool Usage Across the Software Development Lifecycle in Student Projects,Foca em testes de acessibilidade desde requirements engineering em curso de SE. Limítrofe entre I (R4) e CE3.
+223,E,CE3,Evolving requirements in socio-technical systems: concepts and practice,Aborda evolução contínua de requisitos em STS - relevante para R1/R4. Limítrofe entre I e CE3 (foco em traceability).
+89,E,CI1,Experiences integrating sophisticated user experience design practices into agile processes,Diretamente relevante (UED+Agile) mas 2005. Vale como referência seminal no background.
+7,E,CE3,Experiences with User-Centered Design for the Tigres Workflow API,"Aplicação de UCD em API, foco no design da API sem discussão sobre ER."
+181,E,CI1,Experimenting with the use of persona in a focus group discussion with older adults in Malaysia,Testa persona em focus group para elicitação - relevante mas 2009 viola CI1.
+123,E,CE3,Exploring Societal Health Insights: Decentralized Distributed Topic Modeling,Foco em topic modeling descentralizado em saúde sem discussão de ER <-> Design.
+25,E,CE3,Exploring Trends of Potential User Experience of Online Classroom on Virtual Platform for Higher Education during COVID-19 Epidemic: A Case in China,Estudo de UX em educação online não trata de ER.
+96,E,CE3,From Crop to Click - Organic and Digital Transformation of Out-of-Home Catering Value Chains in Germany,Usa DSR para modelar cadeia de valor toca em transformação digital mas integração ER <-> Design não é central.
+168,E,CE7,From Human-Computer Interaction to User Experience: Evolving Curriculum to Meet Student Needs,Discute currículo HCI→UX em SE aborda integração de UCD em SE pedagogy. 1 página (poster/abstract) - provável CE7.
+137,E,CE3,From QoS to QoE Plus QoT in Beyond 5G Networks,Foco em QoE/QoS em redes B5G sem discussão de ER <-> Design.
+64,E,CE3,Granular Modeling of User Experience in Load Testing with Automated UI Tests,Foco em testes de carga + UI não trata de ER.
+99,E,CE6,HCI usability techniques in agile development,Systematic mapping study (estudo secundário). Citar como trabalho relacionado.
+169,E,CE2,How to apply human-centered design process (HCDP) to software development process?,"Duplicata exata do #2 (mesmo título, autores, ano, venue)."
+163,E,CE1;CE7,Human Factors and Ergonomics [review of Human Factors and Ergonomics in Consumer Product Design],Resenha de livro (book review) de 2 páginas - artigo de opinião.
+54,E,CE3,Human-Library Interaction: A Self-Service Library Management System Using Sequential Multimodal Interface,Aplicação de design de interface multimodal sem foco em ER.
+172,E,CE3,HypAR: Situated Mineralogy Exploration in Augmented Reality,Estudo de caso de aplicação AR para mineralogia sem discussão de ER <-> Design.
+174,E,CE3,HYPOalert: Designing Mobile Technology for Hypoglycemic Detection and Monitoring--Based on Human Breath,"Estudo de caso de tecnologia médica foco no produto, sem discussão de ER <-> Design."
+92,E,CE3,Impact in Software Engineering Activities After One Year of COVID-19 Restrictions for Startups and Established Companies,Impacto de COVID em SE em geral não trata de ER <-> Design especificamente.
+112,E,CE3,Integrating Generative AI with Network Digital Twin for 6G: An Edge-Cloud Collaborative Approach,Foco em 6G/Digital Twin/IA generativa sem discussão de ER <-> Design.
+224,E,CE7,Integrating mobile devices into the car ecosystem: tablets and smartphones as vital part of the car,2 páginas (workshop description) - CE7.
+225,E,CE2,Integrating requirements engineering and user experience design in product life cycle management,"Duplicata do #34 (mesmo título, autores, ano, UsARE 2012)."
+95,E,CE3,Intelligent Construction and Performance Optimization of Educational Resource Sharing Platform,Otimização de plataforma educacional via algoritmos sem foco em ER <-> Design.
+204,E,CE3;CE7,Interactive design method based on computer graphics technology in digital media art,"Foco em método interativo de design em arte digital 4 páginas, sem integração relevante com ER."
+158,E,CE3,Internet of Profiling - Traffic Users and Applications,Review de profiling de tráfego de rede sem discussão de ER <-> Design.
+201,E,CE3,Investigating the use of UAUDG-VI in the mobile applications design for visually impaired considering accessibility usability and UX: a feasibility study and an evaluation with experts,Propõe guidelines (UAUDG-VI) integrando acessibilidade+usabilidade+UX na fase de design. Limítrofe entre I (R2/R4) e CE3.
+185,E,CI1,Learning organizational knowledge: an evolutionary proposal for requirements engineering,Combina UCD + knowledge engineering em RE - relevante mas 2002 viola CI1.
+78,E,CE6,Leveraging Software Engineering Practices to Enhance Nursing Informatics Systems Development: A Systematic Literature Review,SLR (estudo secundário).
+44,E,CE3,Lightweight Requirements Engineering for Exascale Co-design,Co-design aqui é hardware-software/HPC não é Co-Design participativo. Fora do escopo.
+179,E,CI1,Looking back at plan AHEAD: exercising user-centered design in emergency management,UCD em emergency management - relevante mas 2005 viola CI1.
+205,E,CE7,Low Cost User Experience (UX) Design,"1 página (workshop abstract). Foca em métodos de baixo custo de UX design, sem integração com ER."
+53,E,CE3,m-Learning in the Education of Multimedia Technologists and Designers at the University Level: A User Requirements Study,Estudo de requisitos via PD+UCD para m-learning. IEEE TLT. Limítrofe entre I e CE3.
+98,E,CE3,Mapping Learning Objectives of Project-Based Undergraduate Software Engineering Courses to CC2020 Competency Model,Foco em currículo de SE não trata de ER <-> Design.
+93,E,CE3,Massive open online courses in software engineering education,Foco em MOOCs em SE não trata de ER <-> Design.
+160,E,CE1;CE7,Message from the ASE4Games 2021 Chairs,Mensagem dos chairs do workshop (1 página) - artigo de opinião/editorial.
+121,E,CE2,mHealth4Afrika alpha validation in rural and deep rural clinics in Ethiopia Kenya Malawi and South Africa,"Versão anterior (alpha) do #117 - mesmos autores, projeto e abordagem. Manter apenas a versão beta (mais completa)."
+196,E,CE3,Mobile application for monitoring oncológical treatments of children of the Carlos Portela Foundation,"Estudo de caso de app mobile para oncologia pediátrica foco no produto, sem discussão de ER <-> Design."
+139,E,CI1;CE7,Modelling WS-RF based Enterprise Applications,2006 e 1 página. Fora do escopo (modelagem técnica de web services).
+129,E,CE3,Modular exoskeleton design: Requirement engineering with KAOS,Aplica KAOS (técnica de RE) para design modular de exoesqueleto toca em RE para design mas integração com abordagens de design participativo/DT não é central.
+126,E,CE3;CE7,Need Analysis for Community-Based Food Recommendation System,Análise de necessidades para recomendação alimentar comunitária. 4 páginas (CE7) e foco predominantemente no produto.
+142,E,CE3,On Reconfiguration Theory of Discrete-Event Systems: From Initial Specification Until Final Deployment,Foco em sistemas reconfiguráveis de eventos discretos sem discussão de ER <-> Design.
+227,E,CI1;CE3,On-line fault detection in a hardware/software co-design environment: system partitioning,Co-design HW/SW - fora do escopo. 2001 também viola CI1.
+11,E,CE3,Online Learning Design for Fundamental Arabic Language with User-Centered Design Approach,"Aplicação de UCD em e-learning de árabe, foco em design do produto, não em ER."
+66,E,CE3,Optimized multi-attribute co-design for maximizing efficiency in Wireless Sensor Networks,Co-design técnico em WSN não é Co-Design participativo. Fora do escopo.
+65,E,CE3,Petri nets as supporting formalism within Embedded Systems Co-design,Co-design aqui é HW/SW co-design (embedded) não é Co-Design participativo.
+208,E,CE7,Poster: An exploratory analysis to elicit requirements for avatar-based interfaces aimed at the deaf community,Poster (declarado no título) - CE7.
+128,E,CE3,Prediction of Round-Trip Time in 5G NSA Networks in Urban Environment,Foco em ML para predição de RTT em 5G sem discussão de ER <-> Design.
+91,E,CE3,Prioritizing Customer Requirements for Science and Technology Service Platform Based on Improved TF-IDF and Sentiment Analysis,Priorização de requisitos via NLP menciona UX mas não trata de integração com abordagens de design.
+5,E,CE3,Producing Design Solutions for Vocabulary Game Using User Centered Design (UCD),"Estudo de caso aplicando UCD para criar jogo de vocabulário, não trata de ER."
+85,E,CE3,Producing Successful Design Website of Video Based Learning in Hybrid Learning of Higher Education,Design de site de aprendizagem sem foco em ER.
+146,E,CE3,Programming Situational Mobile Web Applications with Cloud-Mobile Convergence: An Internetware-Oriented Approach,Foco em abordagem Internetware para mobile web apps sem discussão de ER <-> Design.
+213,E,CI1;CE7,Prototipação de software e design participativo: uma experiência do atlântico,Relato de prototipagem + PD para elicitação - relevante mas 2008 viola CI1 e 4 páginas.
+97,E,CE3,QoE-Oriented Routing Mixing Application KPIs and Link Metrics Through Machine Learning,Foco em roteamento de rede orientado a QoE sem discussão de ER <-> Design.
+35,E,CE3,Reimagining the Insulin Pump User Experience,Examina requisitos técnicos e UX para bomba de insulina toca em ER e UX mas em conferência STEM educacional. Limítrofe.
+182,E,CE3,ReMoNo: Teaching Web Development Concepts with REquirements MOdeling and NO-Code Tools,Foco em ensinar web dev com modelagem de requisitos + no-code não trata da integração ER <-> Design.
+113,E,CE3;CE7,Requirement Patterns for Multicore Systems,Discute RE para sistemas multicore co-design aqui é HW/SW. 2 páginas (short paper).
+138,E,CE3,Responsible AI Engineering: The Case of an Inclusive Image Annotation Team,Aborda engenharia inclusiva de IA com equipe de anotação toca em design inclusivo. Limítrofe entre I (R3) e CE3.
+73,E,CE7,Responsible use of AI in Software Solutions for Neurodiverse and Elderly Communities in the Nordic Countries,Extended abstract de 3 páginas.
+57,E,CE3,Rich-IDM: Transforming the user experience of legacy applications,Foco em modernização técnica de aplicações legadas (RIA) não trata de ER nem integração com design.
+83,E,CE3;CE7,SBI-Lab: Designing Sharia Business Incubator on Virtual Version for Developing Halal Product Competitiveness in Indonesia,Design de plataforma específica sem foco em ER. Também 4 páginas.
+156,E,CE3,Scalable Video Streaming Solutions Using Federated Learning,Foco em FL para video streaming sem discussão de ER <-> Design.
+6,E,CI1,Scenarios in user-centred design-setting the stage for reflection and action,Discute cenários em UCD - relevante conceitualmente mas é de 1999.
+155,E,CI1,Service Mobility with SIP SDP and MPEG-21,"2007 viola CI1. Foco técnico em mobility de serviços multimídia, fora do escopo."
+105,E,CI1,Shaping requirements for institutional Web applications: experience from an industrial project,Combina AWARE (RE) + W2000 (UCD) - altamente relevante para R1/R4 mas é de 2005.
+106,E,CE3,Smart Sensors in the Design of a Medication Management System: Enhancing Patient Autonomy,Foco no design técnico de protótipo físico de dispenser sem discussão de ER <-> Design.
+222,E,CE7,Software design and media design: tools to design mobile and sensory interfaces and interactive environments,"2 páginas (short paper). Propõe co-design, sensory labs e living labs para meet user requirements."
+31,E,CI1,System documentation and system design: a good reason for designing the manual first,Discute UCD aplicado a design e documentação relevante mas é de 1993.
+230,E,CI1;CE3,Teach real-time embedded system online with real hands-on labs,Ensino de embedded systems - fora do escopo. 2009 viola CI1. 1 página.
+143,E,CE3,The Design and Implementation of AI Based Smart Notice Board Using Advanced Machine Learning and Image Processing Techniques,Estudo de caso técnico de notice board com IA sem discussão de ER <-> Design.
+61,E,CI1,The efficacy of narrative video for raising awareness in ICT designers about older users' requirements,Discute comunicação de requisitos via vídeo narrativo 2007.
+161,E,CE1;CE7,The engineering aspects of product design [review of Human Factors and Ergonomics in Consumer Product Design],Resenha de livro (book review) de 2 páginas - artigo de opinião.
+107,E,CE3,The Role of AI in Predictive UX Shaping the Future of Metaverse Interactions,Foco em UX preditivo via IA no metaverso não trata de ER nem integração com abordagens de design.
+218,E,CE2,The role of design thinking and physical prototyping in social software engineering,"Duplicata do #27 (mesmo título, autores, ano, ICSE 2015)."
+132,E,CE3,Three-Dimensional Media for Mobile Devices,Combina conhecimento do sistema visual humano com user requirements para 3D media via framework user-centered. IEEE Proceedings. Limítrofe.
+110,E,CE3,Towards Design and Implementation of an Interactive System for Real-Time Monitoring of Domestic Energy Consumption,"Estudo de caso de design de sistema interativo foco no produto, sem discussão de ER."
+104,E,CE3,Usability Testing in Kanban Agile Process for Club Management System,Foco em usability testing em Kanban não trata centralmente da integração ER <-> Design.
+68,E,CE3,User Experience Evaluation of Chinese Travel App Software,Avaliação de UX em apps de viagem sem discussão de ER nem integração.
+55,E,CE3,User experience to improve the usability of a vision-based interface,Foco em interface vision-based para usuários com deficiência motora sem discussão de processo ER.
+13,E,CI1,User Needs Analysis and requirements engineering: Theory and practice,Discute UCD <-> ER fortemente (responderia R1/R5) mas é de 2006.
+202,E,CE3,User Requirements Analysis of Government Data Open Platform Based on Text Mining,Análise de user requirements via text mining em plataformas governamentais foco em método de NLP sem integração com abordagens de design.
+69,E,CI1,User-centered development of a pervasive healthcare application,2006 viola CI1.
+71,E,CE2,User-centered development of a pervasive healthcare application,Duplicata exata do #69.
+215,E,CE7,User-centric security: optimization of the security-usability trade-off,4 páginas (short paper). Aborda envolvimento de usuários para balancear segurança e usabilidade.
+153,E,CE3,VocalEyes: Enhancing Environmental Perception for the Visually Impaired through Vision-Language Models and Distance-Aware Object Detection,Estudo de caso técnico de sistema assistivo via VLMs sem discussão de ER <-> Design.
+75,E,CE3,VOYAGER – Smart Travel Guidance Cross Platform Mobile Application,Estudo de caso de app turística sem discussão de ER <-> Design.
+30,E,CE7,Web-based Stakeholder Participation in Distributed Requirements Elicitation,Combina PD + Social Web + Semantic Collaboration para elicitação. Abstract indica que é poster - verificar paginação.
+52,E,CE3,Website user experience (UX) testing tool development using Open Source Software (OSS),Foco em ferramenta de teste de UX (URANUS) não trata da integração ER <-> Design.
+60,E,CE3,WellnessWise: User Experience Design of the Proposed Mobile Application for Physical and Mental Health Self-Care,Estudo de caso de DT para criar app de wellness foco no produto.

@@ -1,0 +1,29 @@
+id,grupo,grupo_descricao,proposta_central,avaliacao_empirica
+E01,A,"Modelo, framework ou processo de integração proposto",Modelo activity-centered de 4 estágios + extensão do nested model,Retrospectiva comparativa (75 projetos)
+E02,A,"Modelo, framework ou processo de integração proposto",Connected Health Innovation Framework (DT como pré-fase da ER),"Caso único, sem medição"
+E09,D,"Aplicação de abordagem existente, sem proposta nova",ER ágil em 5 etapas com prototipação HCD,Caso industrial com indicadores
+E12,A,"Modelo, framework ou processo de integração proposto",Método de análise por padrões de usabilidade (UML estendida),Avaliação exploratória (10 especialistas)
+E21,B,Técnica ou artefato específico proposto,Técnicas IoThinking e Mind IoT,"Experimento controlado (crossover, 59 estudantes)"
+E23,D,"Aplicação de abordagem existente, sem proposta nova",5 técnicas de DT na elicitação IoT,Estudo experimental (23 participantes)
+E25,D,"Aplicação de abordagem existente, sem proposta nova",Participatory design (3 estágios de Spinuzzi) + RITE,Caso com 19 clínicos + SUS
+E27,A,"Modelo, framework ou processo de integração proposto",Framework DSR de requisitos orientado a usabilidade,Caso de campo com medições
+E29,A,"Modelo, framework ou processo de integração proposto",PRO-RE-DT (empatia interna/externa; Vision Canvas + Empathy Map),"Quase-experimento (33 equipes, 23–28 analisadas)"
+E32,A,"Modelo, framework ou processo de integração proposto",DSC semioparticipativo + árvore metodológica,Caso único (oficinas)
+E36,C,Catálogo ou apoio à seleção de técnicas,Universo de Seleção × DTA4RE (seleção de técnicas),Experimento (acurácia)
+E38,A,"Modelo, framework ou processo de integração proposto",User Objectives + diagramas (ágil-UCD),Sem avaliação
+E40,D,"Aplicação de abordagem existente, sem proposta nova",DT (4 imersões) em programa de intraempreendedorismo,Pesquisa-ação (2 ciclos)
+E43,A,"Modelo, framework ou processo de integração proposto","Conflict Sensitive Design (6 fases, workshops separados)",Caso real (workshops)
+E45,C,Catálogo ou apoio à seleção de técnicas,Catálogo de 41 padrões de ER ágil (agileRE.org),RSL + painel Delphi (padrões não avaliados)
+E46,B,Técnica ou artefato específico proposto,Triangulação RSL + survey crowdsourcing + atividade de design,Caso único
+E47,A,"Modelo, framework ou processo de integração proposto",Framework DT–Scrum para gestão da ER,Sem avaliação
+E51,D,"Aplicação de abordagem existente, sem proposta nova",Co-design + DSR multipaís (protótipo como especificação),"Validação de campo (4 países, 36 participantes)"
+E57,C,Catálogo ou apoio à seleção de técnicas,Tabelas comparativas SADT de 27 técnicas de DT,Estudo de viabilidade
+E58,B,Técnica ou artefato específico proposto,Grupos focais em díade + storytelling → casos de uso,Aplicação (2 grupos focais)
+E63,A,"Modelo, framework ou processo de integração proposto",Arquitetura PD–PS em camadas + ciclo 4Co-Ds,Sem avaliação
+E64,A,"Modelo, framework ou processo de integração proposto",Processo de workshop SAwD (Stakeholder Diagram → Escada Semiótica),Caso único (workshop)
+E67,B,Técnica ou artefato específico proposto,Template de proto-persona adaptado (Lean UX),Experimento (13 participantes)
+E70,A,"Modelo, framework ou processo de integração proposto",DivingBoard (DT físico) no framework ágil Speedplay,"Estudo de caso único (9 meses, comunidade real)"
+E72,B,Técnica ou artefato específico proposto,Metamodelo de requisitos emocionais + mapeamento GRL,Demonstração (5 usuários)
+E74,D,"Aplicação de abordagem existente, sem proposta nova",Percepções de DT na ER (survey 158 + 39 em grupos focais),Survey (158) + grupos focais (39)
+E75,A,"Modelo, framework ou processo de integração proposto",Ciclo UCD de 5 fases com cenários encenados (casa de bonecas),Protótipo avaliado por 5 geriatras (cenários validados por cuidadores)
+E79,A,"Modelo, framework ou processo de integração proposto",Parallel micro-crowd RE (DT em quadros online),"Execução única (Jam week, 700 alunos)"

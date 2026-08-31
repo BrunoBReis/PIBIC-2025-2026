@@ -1,0 +1,7 @@
+codigo,descricao,n,estudos
+L1,Validação empírica da própria proposta ainda pendente,17,E02 E09 E12 E25 E27 E29 E36 E45 E46 E47 E51 E57 E63 E64 E67 E74 E75
+L4,Escalabilidade e adaptação a outros domínios,10,E23 E25 E27 E29 E32 E43 E63 E67 E72 E79
+L3,Transferência para a indústria e para contexto real,8,E12 E21 E29 E36 E45 E74 E75 E79
+L6,Ferramental de apoio ainda por construir,6,E09 E36 E38 E45 E47 E57
+L2,Ausência de estudos comparativos com alternativas,5,E09 E32 E40 E47 E64
+L5,Cobertura incompleta do ciclo de ER,4,E01 E02 E38 E72

@@ -1,0 +1,29 @@
+id,grupo_rq4,proposta_central,abordagens,atividades_er,temporal,participacao,mediacao,papeis,avaliacao_empirica
+E01,A,Modelo activity-centered de 4 estágios + extensão do nested model,UCD/HCD,"Eli, Aná, Esp, Val",Iterativa,Não explicitada,Interação direta,"Estruturadora, Organizadora",Retrospectiva comparativa (75 projetos)
+E02,A,Connected Health Innovation Framework (DT como pré-fase da ER),"Design Thinking, Co-Design","Eli, Aná, Esp, Val, Ges",Sequencial,Não explicitada,Interação direta,"Destinatária, Estruturadora","Caso único, sem medição"
+E09,D,ER ágil em 5 etapas com prototipação HCD,UCD/HCD,"Eli, Esp, Val, Ges",Iterativa,Colaborativa,Por artefatos,Estruturadora,Caso industrial com indicadores
+E12,A,Método de análise por padrões de usabilidade (UML estendida),UCD/HCD,"Aná, Esp",Sequencial,Não explicitada,Por artefatos,Estruturadora,Avaliação exploratória (10 especialistas)
+E21,B,Técnicas IoThinking e Mind IoT,Design Thinking,"Eli, Aná",Sequencial,Não explicitada,Por artefatos,Destinatária,"Experimento controlado (crossover, 59 estudantes)"
+E23,D,5 técnicas de DT na elicitação IoT,Design Thinking,Eli,Sequencial,Não explicitada,Por artefatos,—,Estudo experimental (23 participantes)
+E25,D,Participatory design (3 estágios de Spinuzzi) + RITE,Participatory Design,"Eli, Aná, Val",Iterativa,Não explicitada,Por artefatos,Destinatária,Caso com 19 clínicos + SUS
+E27,A,Framework DSR de requisitos orientado a usabilidade,UCD/HCD,"Eli, Aná",Iterativa,Não explicitada,Por artefatos,Destinatária,Caso de campo com medições
+E29,A,PRO-RE-DT (empatia interna/externa; Vision Canvas + Empathy Map),Design Thinking,"Eli, Esp",Sequencial,Não explicitada,Por artefatos,"Destinatária, Estruturadora","Quase-experimento (33 equipes, 23–28 analisadas)"
+E32,A,DSC semioparticipativo + árvore metodológica,Participatory Design,"Eli, Esp",Não explicitada,Colaborativa,Por artefatos,Destinatária,Caso único (oficinas)
+E36,C,Universo de Seleção × DTA4RE (seleção de técnicas),Design Thinking,Eli,Não explicitada,Não explicitada,Por artefatos,"Destinatária, Organizadora",Experimento (acurácia)
+E38,A,User Objectives + diagramas (ágil-UCD),UCD/HCD,"Aná, Esp, Val",Iterativa,Não explicitada,Por artefatos,"Estruturadora, Organizadora",Sem avaliação
+E40,D,DT (4 imersões) em programa de intraempreendedorismo,Design Thinking,"Eli, Esp",Híbrida,Não explicitada,Por artefatos,Prática coletiva distribuída,Pesquisa-ação (2 ciclos)
+E43,A,"Conflict Sensitive Design (6 fases, workshops separados)","Participatory Design, Co-Design","Eli, Esp, Val",Iterativa,Colaborativa,Por artefatos,Organizadora,Caso real (workshops)
+E45,C,Catálogo de 41 padrões de ER ágil (agileRE.org),UCD/HCD,"Eli, Aná, Ges",Iterativa,Colaborativa,Por artefatos,"Organizadora, Prática coletiva distribuída",RSL + painel Delphi (padrões não avaliados)
+E46,B,Triangulação RSL + survey crowdsourcing + atividade de design,"UCD/HCD, Design Thinking","Eli, Aná, Val",Sequencial,Não explicitada,Interação direta,Organizadora,Caso único
+E47,A,Framework DT–Scrum para gestão da ER,Design Thinking,"Eli, Aná, Esp, Val, Ges",Híbrida,Não explicitada,Interação direta,Organizadora,Sem avaliação
+E51,D,Co-design + DSR multipaís (protótipo como especificação),"Co-Design, UCD/HCD","Eli, Aná, Esp, Val",Iterativa,Colaborativa,Por artefatos,Destinatária,"Validação de campo (4 países, 36 participantes)"
+E57,C,Tabelas comparativas SADT de 27 técnicas de DT,Design Thinking,Eli,Não explicitada,Não explicitada,Por artefatos,Organizadora,Estudo de viabilidade
+E58,B,Grupos focais em díade + storytelling → casos de uso,Participatory Design,"Eli, Esp",Sequencial,Não explicitada,Por artefatos,"Destinatária, Estruturadora",Aplicação (2 grupos focais)
+E63,A,Arquitetura PD–PS em camadas + ciclo 4Co-Ds,Participatory Design,"Eli, Esp",Iterativa,Colaborativa,Interação direta,Destinatária,Sem avaliação
+E64,A,Processo de workshop SAwD (Stakeholder Diagram → Escada Semiótica),Participatory Design,"Eli, Esp",Sequencial,Não explicitada,Por artefatos,"Destinatária, Estruturadora",Caso único (workshop)
+E67,B,Template de proto-persona adaptado (Lean UX),UX Design,"Eli, Esp",Não explicitada,Não explicitada,Por artefatos,"Destinatária, Estruturadora",Experimento (13 participantes)
+E70,A,DivingBoard (DT físico) no framework ágil Speedplay,"Design Thinking, Participatory Design","Eli, Aná, Ges",Iterativa,Colaborativa,Por artefatos,Estruturadora,"Estudo de caso único (9 meses, comunidade real)"
+E72,B,Metamodelo de requisitos emocionais + mapeamento GRL,UX Design,"Eli, Aná, Esp",Sequencial,Não explicitada,Por artefatos,Estruturadora,Demonstração (5 usuários)
+E74,D,Percepções de DT na ER (survey 158 + 39 em grupos focais),Design Thinking,"Eli, Esp",Não explicitada,Colaborativa,Interação direta,Destinatária,Survey (158) + grupos focais (39)
+E75,A,Ciclo UCD de 5 fases com cenários encenados (casa de bonecas),UCD/HCD,"Eli, Aná, Esp, Val",Híbrida,Não explicitada,Interação direta,Estruturadora,Protótipo avaliado por 5 geriatras (cenários validados por cuidadores)
+E79,A,Parallel micro-crowd RE (DT em quadros online),Design Thinking,"Eli, Aná, Esp",Não explicitada,Colaborativa,Por artefatos,Prática coletiva distribuída,"Execução única (Jam week, 700 alunos)"
